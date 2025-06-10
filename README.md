@@ -3,22 +3,22 @@ Utilização do algorítimo mergesort para organizar containers de um porto fict
 
 # 📥 Formato do Arquivo de Entrada
 numeroDeContainersCadastrados
-códigoDoContainer cnpj peso
-códigoDoContainer cnpj peso
-códigoDoContainer cnpj peso
-...
-numeroDeContainersSelecionados
-códigoDoContainer cnpj peso
-códigoDoContainer cnpj peso
-códigoDoContainer cnpj peso
+códigoDoContainer cnpj peso <br>
+códigoDoContainer cnpj peso <br>
+códigoDoContainer cnpj peso <br>
+...<br>
+numeroDeContainersSelecionados<br>
+códigoDoContainer cnpj peso<br>
+códigoDoContainer cnpj peso<br>
+códigoDoContainer cnpj peso<br>
 ...
 
 # 📤 Formato da Saída
-codigoDoContainer:cnpjCadastrado<->cnpjSelecionado
-codigoDoContainer:cnpjCadastrado<->cnpjSelecionado
-codigoDoContainer:cnpjCadastrado<->cnpjSelecionado
-...
-codigoDoContainer:pesokg(diferençaPercentual%)
-codigoDoContainer:pesokg(diferençaPercentual%)
-codigoDoContainer:pesokg(diferençaPercentual%)
-...
+codigoDoContainer:cnpjCadastrado<->cnpjSelecionado<br>
+codigoDoContainer:cnpjCadastrado<->cnpjSelecionado<br>
+codigoDoContainer:cnpjCadastrado<->cnpjSelecionado<br>
+...<br>
+codigoDoContainer:pesokg(diferençaPercentual%)<br>
+codigoDoContainer:pesokg(diferençaPercentual%)<br>
+codigoDoContainer:pesokg(diferençaPercentual%)<br>
+...<br>
